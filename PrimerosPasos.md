@@ -34,8 +34,6 @@
     ```bash
     npm run dev
     ```
-
-![Texto alternativo](imagen.png)
    Esto abrirá tu aplicación en el navegador predeterminado.
 
 ¡Ahora estás listo para comenzar a desarrollar tu proyecto de React con Vite!
