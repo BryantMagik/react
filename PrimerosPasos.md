@@ -7,6 +7,7 @@
     mkdir projects
     cd projects
     ```
+![image](https://github.com/BryantMagik/React/assets/114482369/740c27d5-1d78-48dd-86b0-1bf1c5f199ad)
 
 2. **Inicializar un Proyecto npm:**
     ```bash
@@ -35,7 +36,6 @@
     npm run dev
     ```
 
-![Texto alternativo](./imagen.png)
    Esto abrirá tu aplicación en el navegador predeterminado.
 
 ¡Ahora estás listo para comenzar a desarrollar tu proyecto de React con Vite!
