@@ -1,28 +1,40 @@
 # Instalación de Node.js y npm
 
-# 1. **Crear una Carpeta para el Proyecto**
-mkdir projects
-cd projects
+## Pasos para Iniciar un Proyecto de React con Vite
 
-# 2. **Inicializar un Proyecto npm**
-npm init -y
+1. **Crear una Carpeta para el Proyecto:**
+    ```bash
+    mkdir projects
+    cd projects
+    ```
 
-# 3. **Usar Vite para Crear el Proyecto**
-npm create vite@latest
+2. **Inicializar un Proyecto npm:**
+    ```bash
+    npm init -y
+    ```
 
-# 4. **Configurar el Proyecto**
-#   - Nombre del Proyecto: Selecciona un nombre para tu proyecto.
-#   - Framework: Escoge React.
-#   - Variante: Elige JavaScript + SWC.
+3. **Usar Vite para Crear el Proyecto:**
+    ```bash
+    npm create vite@latest
+    ```
 
-# 5. **Instalar Dependencias**
-npm install
+4. **Configurar el Proyecto:**
+   - **Nombre del Proyecto:** Selecciona un nombre para tu proyecto.
+   - **Framework:** Escoge React.
+   - **Variante:** Elige JavaScript + SWC.
 
-# Si encuentras errores, verifica que no haya conflictos con los puertos utilizados por otros servicios en tu sistema.
+5. **Instalar Dependencias:**
+    ```bash
+    npm install
+    ```
 
-# 6. **Iniciar el Servidor de Desarrollo**
-npm run dev
+   Si encuentras errores, verifica que no haya conflictos con los puertos utilizados por otros servicios en tu sistema.
 
-# Esto abrirá tu aplicación en el navegador predeterminado.
+6. **Iniciar el Servidor de Desarrollo:**
+    ```bash
+    npm run dev
+    ```
 
-# ¡Ahora estás listo para comenzar a desarrollar tu proyecto de React con Vite!
+   Esto abrirá tu aplicación en el navegador predeterminado.
+
+¡Ahora estás listo para comenzar a desarrollar tu proyecto de React con Vite!
