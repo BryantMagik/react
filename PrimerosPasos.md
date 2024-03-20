@@ -35,6 +35,9 @@
     ```bash
     npm install
     ```
+    ```bash
+    npm i
+    ```
     - ![image](https://github.com/BryantMagik/React/assets/114482369/813ac03e-30eb-46e9-a54f-5cd27bbd3943)
 
 
