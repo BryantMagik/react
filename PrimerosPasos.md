@@ -18,7 +18,9 @@
     ```bash
     npm create vite@latest
     ```
-
+    ```
+    npm create vite@latest app -- --template react-ts
+    ```
 4. **Configurar el Proyecto:**
    - **Nombre del Proyecto:** Selecciona un nombre para tu proyecto.
    - ![image](https://github.com/BryantMagik/React/assets/114482369/8f1ad83e-3857-421d-8dce-899e33051069)
