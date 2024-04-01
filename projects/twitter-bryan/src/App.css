@@ -1,0 +1,66 @@
+.x-followCard {
+    background-color: #2e2e2e;
+    display: flex;
+    flex-basis: auto;
+    flex-direction: column;
+    flex-shrink: 0;
+    list-style: none;
+    margin: 0px;
+    min-height: 0px;
+    min-width: 0px;
+    padding: 0px;
+    position: relative;
+    text-decoration: none;
+    z-index: 0;
+    border: 0 solid black;
+    box-sizing: border-box;
+    align-items: stretch;
+}
+
+.x-followCard-header {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.x-followCard-body {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    color: white;
+    align-items: center;
+}
+
+.x-followCard-data {
+    display: flex;
+    flex-direction: column;
+}
+
+.x-followCard-bodyButton {
+    margin-left: 80px;
+}
+
+.x-followCard-button {
+    background-color: rgb(239, 243, 244);
+    border-color: rgba(0, 0, 0, 0);
+    border-radius: 9999px;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 90px;
+}
+
+.x-followCard-userName {}
+
+
+.x-followCard-title {
+    color: white;
+}
+
+.x-followCard-imgProfile {
+    box-shadow: rgba(225, 255, 255, 0.003) 0px 0px 2px inset;
+    width: 50px;
+    border-radius: 100%;
+}

@@ -1,0 +1,7 @@
+body {
+    margin :0;
+    background-color: rgb(58, 55, 55);
+    font-family: system-ui;
+    display: grid;
+    place-content: center;
+}
